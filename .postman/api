@@ -1,4 +1,4 @@
-id = c351e63a-3854-4917-9ca6-0cdba8c15883
+id = fc9e2669-0480-428a-b99a-afab62d84930
 
 [relations]
 
@@ -10,12 +10,7 @@ files[] = {"id":"0a7a5313-b04b-4144-b3c0-bf540cc3089a","path":"Swagger Petstore_
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
-files[] = {"path":"swagger/components/error.yml","metaData":{}}
-files[] = {"path":"swagger/components/pet.yml","metaData":{}}
-files[] = {"path":"swagger/components/pets.yml","metaData":{}}
 files[] = {"path":"swagger/openapi.yml","metaData":{}}
-files[] = {"path":"swagger/paths/pet.yml","metaData":{}}
-files[] = {"path":"swagger/paths/pets.yml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
