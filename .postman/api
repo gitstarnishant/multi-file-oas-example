@@ -4,6 +4,10 @@ id = 3d2d4fb0-2f88-4f48-be7f-25028a161428
 
 [relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"0db1c8f9-18d8-4587-be6f-69290dcfff7b","path":"petstore 2.json","metaData":{}}
+files[] = {"id":"fcaa3e21-3048-46d2-8461-5c342d5bcb9c","path":"petstore 3.json","metaData":{}}
+files[] = {"id":"d444cadc-e405-4036-b862-82f6c9698c43","path":"Petstore.json","metaData":{}}
+files[] = {"id":"0a7a5313-b04b-4144-b3c0-bf540cc3089a","path":"Swagger Petstore_572314-0a7a5313-b04b-4144-b3c0-bf540cc3089a.json","metaData":{}}
 
 [relations.collections.metaData]
 
